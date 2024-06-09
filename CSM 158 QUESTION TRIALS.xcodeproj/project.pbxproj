@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1B07ACA32C15EB19007E852C /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1B07ACA22C15EB19007E852C /* main.cpp */; };
+		1B07ACAE2C15EB6F007E852C /* Q1_Employees Netpay.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1B07ACAA2C15EB57007E852C /* Q1_Employees Netpay.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,10 @@
 
 /* Begin PBXFileReference section */
 		1B07AC9F2C15EB19007E852C /* CSM 158 QUESTION TRIALS */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "CSM 158 QUESTION TRIALS"; sourceTree = BUILT_PRODUCTS_DIR; };
-		1B07ACA22C15EB19007E852C /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		1B07ACA92C15EB57007E852C /* Q4_Mean and Median.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Q4_Mean and Median.cpp"; sourceTree = "<group>"; };
+		1B07ACAA2C15EB57007E852C /* Q1_Employees Netpay.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Q1_Employees Netpay.cpp"; sourceTree = "<group>"; };
+		1B07ACAB2C15EB57007E852C /* Q3_Number Last Occurence.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Q3_Number Last Occurence.cpp"; sourceTree = "<group>"; };
+		1B07ACAC2C15EB57007E852C /* Q5_Sum of Odd and Even.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Q5_Sum of Odd and Even.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +60,10 @@
 		1B07ACA12C15EB19007E852C /* CSM 158 QUESTION TRIALS */ = {
 			isa = PBXGroup;
 			children = (
-				1B07ACA22C15EB19007E852C /* main.cpp */,
+				1B07ACAA2C15EB57007E852C /* Q1_Employees Netpay.cpp */,
+				1B07ACAB2C15EB57007E852C /* Q3_Number Last Occurence.cpp */,
+				1B07ACA92C15EB57007E852C /* Q4_Mean and Median.cpp */,
+				1B07ACAC2C15EB57007E852C /* Q5_Sum of Odd and Even.cpp */,
 			);
 			path = "CSM 158 QUESTION TRIALS";
 			sourceTree = "<group>";
@@ -119,7 +125,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1B07ACA32C15EB19007E852C /* main.cpp in Sources */,
+				1B07ACAE2C15EB6F007E852C /* Q1_Employees Netpay.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
