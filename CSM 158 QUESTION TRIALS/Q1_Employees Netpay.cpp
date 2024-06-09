@@ -10,7 +10,7 @@ int main(){
     int NumChildren, HoursWorked, EmployeeNum;
     double CurrentPay;
     
-    cout << "Input number of Employees: ";
+    cout << "Input Number of Employees: ";
     cin >> EmployeeNum;
     cout << endl;
     
