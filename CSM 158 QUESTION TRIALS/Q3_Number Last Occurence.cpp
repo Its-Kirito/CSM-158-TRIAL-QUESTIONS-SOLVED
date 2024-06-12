@@ -51,7 +51,7 @@ int main() {
             if (NumWanted == array[i]) { last_occurence = i; }
         }
         
-        cout << "The last occurence of " << NumWanted << " is at index position " << last_occurence << endl;
+        cout << "The last occurence of " << NumWanted << " is at position " << last_occurence+1 << endl;
         cout << endl;
     }
     
@@ -71,7 +71,7 @@ int main() {
         
         
         // User inputs each number in the set one at a time and it's temporarily stored in variable Num until it is overwritten when the loop starts again
-        for (int i=0; i<=NumOfNumbers-1; i++) {
+        for (int i=1; i<=NumOfNumbers; i++) {
             cout << "Input a number in the set: ";
             cin >> Num;
             
@@ -80,7 +80,7 @@ int main() {
         }
         
         cout << endl;
-        cout << "The last occurence of " << NumWanted << " is at index position " << LastOccurence << endl;
+        cout << "The last occurence of " << NumWanted << " is at position " << LastOccurence << endl;
         cout << endl;
     }
 }
