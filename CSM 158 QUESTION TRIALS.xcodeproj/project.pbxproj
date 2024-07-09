@@ -6,6 +6,10 @@
 	objectVersion = 56;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		1B0B85942C3D18B200048D31 /* Q9_Check Prime Number.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1B3A3A992C18EAED008B1FFB /* Q9_Check Prime Number.cpp */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXCopyFilesBuildPhase section */
 		1B07AC9D2C15EB19007E852C /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -30,6 +34,7 @@
 		1B3A3A992C18EAED008B1FFB /* Q9_Check Prime Number.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Q9_Check Prime Number.cpp"; sourceTree = "<group>"; };
 		1BB415D72C35351300109F44 /* HOD Questions.rtf */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; path = "HOD Questions.rtf"; sourceTree = "<group>"; };
 		1BB415DA2C353B5000109F44 /* Q9(b)_Factorial and Number.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = "Q9(b)_Factorial and Number.cpp"; path = "/Users/Kirigaya_Kazuto/Documents/GitHub/CSM 158 QUESTION TRIALS/CSM 158 QUESTION TRIALS/Q9(b)_Factorial and Number.cpp"; sourceTree = "<absolute>"; };
+		1BB415DD2C36A93600109F44 /* Q10_Twin Primes.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Q10_Twin Primes.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +77,7 @@
 				1B18A50D2C17ADE2005C12CA /* Q8_Sum and Num of Digits in Integer.cpp */,
 				1B3A3A992C18EAED008B1FFB /* Q9_Check Prime Number.cpp */,
 				1BB415DA2C353B5000109F44 /* Q9(b)_Factorial and Number.cpp */,
+				1BB415DD2C36A93600109F44 /* Q10_Twin Primes.cpp */,
 			);
 			path = "CSM 158 QUESTION TRIALS";
 			sourceTree = "<group>";
@@ -133,6 +139,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1B0B85942C3D18B200048D31 /* Q9_Check Prime Number.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
